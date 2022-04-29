@@ -1,0 +1,190 @@
+body{
+    padding: 10px 20px 0px;
+}
+h2{
+    padding-left: 20px;
+}
+span{
+    color: hotpink;
+}
+.moringa_vision{
+    padding: 20px;
+}
+.vision-container{
+    padding-top: 50px;
+    display: flex;
+}
+
+.vision-container p{
+    padding: 0px 50px;
+    font-weight: 300;
+    font-size: 15px;
+    font-family: "Trirong", serif;
+}
+.vision-container h1{
+    padding-left: 50px;
+    color: hotpink;
+    font-weight: 500;
+}
+.vision-container h4{
+    font-family: "Trirong", serif;
+    font-weight: 300;
+    padding-left: 50px;
+    
+}
+.vision-logo{
+    height: 90%;
+    flex: 2.5;
+}
+.vision-logo img{
+    height: 270;
+    width: auto;
+    padding-left: 60px;
+
+    
+}
+.r-link {
+    margin-top: 10px;
+    float: left;
+    display: flex;
+    padding: 0px 30px;
+}
+#r-link1{
+    margin-left: 20px;
+    background-color:hotpink;
+    color:white;
+    text-decoration: none;
+    font-size: 1em;
+    padding:5px 10px;
+    height: 15%;
+    border-radius: 7%;
+    text-align: center;
+}
+#r-link2{
+    
+    margin-left: 20px;
+    border: 1px solid hotpink;
+    color:hotpink;
+    font-style: bold;
+    text-decoration: none;
+    font-size: 1em;
+    padding:5px 20px;
+    height: 15%;
+    text-align: center;
+}
+.intro{
+    height: 5vmax;
+    margin: 0 auto;
+}
+
+.logo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#enroll{
+    background-color: hotpink;
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 10%;
+    color: white;
+}
+.list-items li{
+    display: inline-block;
+    padding: 10px 20px;
+    list-style: none;
+    
+
+}
+.list-items li a {
+
+    display: flex;
+    float: left;
+    justify-content: space-between;
+    text-decoration: none;
+    font-size: 1em;
+    font-weight: 300;
+    color:black;
+}
+.nav-links{
+    flex:l;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.nav-container{
+    display: flex;
+    flex-direction: row;
+    height:50px;
+    justify-content: space-between;
+}
+.stories{
+    padding-top: 450px;
+}
+.headers h3{
+    font-family: "Trirong", serif;
+    font-weight: 300;
+    padding-left: 50px;
+    display: block;
+    
+    
+}
+.album-container{
+    
+    padding-top: 30px;
+    display: flex;
+    align-items: center;
+    float: left;
+    padding-right: 50px;
+}
+
+.album img{
+    display: block;
+    height: 250;
+    padding-left: 50px;
+}
+.album-desc p{
+    padding: 0px 0px 0px 50px;
+    font-weight: 400;
+    font-size: 15px;
+    font-family: "Trirong", serif;
+}
+.album-desc h3{
+    padding: 0px 50px;
+    font-weight: 590;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.rlink{
+    margin-left: 50px;
+    background-color:hotpink;
+    color:white;
+    text-decoration: none;
+    font-size: 1em;
+    padding:5px 10px;
+    height: 15%;
+    border-radius: 7%;
+    text-align: center;
+}
+.board p{
+    padding: 0px 0px 0px 50px;
+    font-weight: 400;
+    font-size: 15px;
+    font-family: "Trirong", serif;
+}
+.stories_board img{
+    display: block;
+    height: 250;
+    padding-left: 50px;
+}
+.board h3{
+    padding: 0px 50px;
+    font-weight: 590;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.board_meeting{
+    padding-top: 3%;
+    display: flex;
+    float: left;
+}
