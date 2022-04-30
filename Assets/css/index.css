@@ -7,6 +7,10 @@ h2{
 span{
     color: hotpink;
 }
+.story{
+    color: black;
+    background-color: gainsboro;
+}
 .moringa_vision{
     padding: 20px;
 }
@@ -126,7 +130,7 @@ span{
 .headers h3{
     font-family: "Trirong", serif;
     font-weight: 300;
-    padding-left: 50px;
+    margin-left: 50px;
     display: block;
     
     
@@ -187,4 +191,28 @@ span{
     padding-top: 3%;
     display: flex;
     float: left;
+}
+.technical-mentors{
+    padding-top: 900px;
+}
+.tech{
+    background-color:gainsboro;
+    color: black;
+}
+.mentors{
+    float:left;
+    position:relative;
+}
+.mentors img{
+    height: 200;
+    padding: 10px;
+    margin-left: 10px;
+}
+.box-text {
+    position:absolute;
+    bottom:20px;
+    left: 50px;
+    font-size: 1.3em;
+    color: white;
+    text-align: center;
 }
