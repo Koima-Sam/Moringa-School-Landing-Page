@@ -20,7 +20,7 @@
    
    ## stories section
 
-   ![]()
+   ![](https://github.com/Koima-Sam/Moringa-School-Landing-Page/blob/main/Assets/images/stories.png)
    
    ## Mentors section
    
