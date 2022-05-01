@@ -40,7 +40,10 @@
  
  ##   To Do
  <ol>
-  <ol>
+    <li>Inherit styles from other elements</li>
+    <li>Merge classes for elements with similars styles</li>
+    <li>Practice more on styling</li>
+  </ol>
     
    ## Contributors
   <a  href="https://koima-sam.github.io/Moringa-School-Landing-Page/" style="text-decoration:none;">Sammy Kipkosgei</a>
