@@ -204,15 +204,104 @@ span{
     position:relative;
 }
 .mentors img{
-    height: 200;
+    height: 170;
     padding: 10px;
-    margin-left: 10px;
+    margin-left: 50px;
 }
 .box-text {
     position:absolute;
     bottom:20px;
-    left: 50px;
+    left: 90px;
     font-size: 1.3em;
     color: white;
     text-align: center;
 }
+.mentor h3{
+    color: hotpink;
+    padding-left: 50px;
+    font-weight: 500;
+}
+.mentor{
+    float: left;
+    margin-top: 0px;
+    padding: 10px;
+}
+.mentor p{
+    
+    padding: 0px 0px 0px 50px;
+    font-weight: 400;
+    font-size: 14px;
+    font-family: "Trirong", serif;
+}
+.mentor a{
+    background-color: hotpink;
+    padding: 3px;
+    color: white;
+    font-weight: 500;
+    font-size: 1.2em;
+    text-decoration: none;
+    border-radius: 7%;
+    margin-left: 50px;
+}
+.project{
+    padding-top: 500px;
+}
+.project-desc{
+    margin-left: 50px;
+
+}
+.project-desc h1{
+    color: hotpink;
+    font-weight: 500;
+    size: 1.4em;
+    
+}
+.project-desc p{
+    font-family: "Trirong", serif;
+    font-size: small;
+}
+.project-img{
+    flex: 1.5;
+}
+.project-img img{
+    height: 250;
+    margin-left: 50px;
+}
+.proj{
+    display: flex;
+    float: left;
+}
+.project-desc a {
+    background-color: hotpink;
+    padding: 5px;
+    color: white;
+    font-weight: 500;
+    font-size: 1.1em;
+    text-decoration: none;
+    border-radius: 7%;
+    
+}
+#not{
+    padding-left: 0px;
+    color: hotpink;
+    margin-top: 90px;
+}
+#lnk{
+    color: hotpink;
+    background-color: white;
+    text-decoration: underline;
+}
+#ln2{
+    background-color: hotpink;
+    padding: 1px;
+    color: white;
+    text-decoration: none;
+    border-radius: 7%;
+}
+footer{
+    margin-top: 400px;
+    height: 30px;
+    text-align: center;
+    background-color: gainsboro;
+}
+
