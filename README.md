@@ -28,7 +28,7 @@
    
    ## Footer section
    
-   ![](https://github.com/Koima-Sam/Moringa-School-Landing-Page/blob/main/Assets/footer.png)
+   ![](https://github.com/Koima-Sam/Moringa-School-Landing-Page/blob/main/Assets/images/footer.png)
    
    
    
