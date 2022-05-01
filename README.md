@@ -14,8 +14,22 @@
    
    ## Site
    
-   ## Intro Page
-  
+   ## Navigation
+
+   ![](https://github.com/Koima-Sam/Moringa-School-Landing-Page/blob/main/Assets/images/intro.png)
+   
+   ## stories section
+
+   ![]()
+   
+   ## Mentors section
+   
+   ![](https://github.com/Koima-Sam/Moringa-School-Landing-Page/blob/main/Assets/images/mentors.png)
+   
+   ## Footer section
+   
+   ![](https://github.com/Koima-Sam/Moringa-School-Landing-Page/blob/main/Assets/footer.png)
+   
    
    
    ## Built with 
